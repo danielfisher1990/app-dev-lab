@@ -3,7 +3,7 @@ ReplicaNumber: 3
 containers:
   containerPort: 8080
   image: 'quay.io/danielfisher210/shiraz:v2'
-  tag: 'base'
+  tag: ''
 
 service:
   servicePort: 8080
